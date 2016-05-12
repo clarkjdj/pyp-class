@@ -8,4 +8,5 @@
 * Chapter [3](https://automatetheboringstuff.com/chapter3/) from [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter6/)
 
 **Advanced**
+
 * Chapter [7](http://chimera.labs.oreilly.com/books/1230000000393/ch07.html) from the [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
