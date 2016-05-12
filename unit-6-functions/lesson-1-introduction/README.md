@@ -9,4 +9,5 @@
 
 **Advanced**
 
+* Chapter [8](http://book.pythontips.com/en/latest/global_&_return.html) from [Intermediate Python](http://book.pythontips.com/en/latest/)
 * Chapter [7](http://chimera.labs.oreilly.com/books/1230000000393/ch07.html) from the [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
