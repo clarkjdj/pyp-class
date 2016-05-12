@@ -2,7 +2,7 @@ Write a function `string2number(a_string)`, that converts given String into eith
 
 Example:
 
-```
+```python
 >>> string2number('2.8')
 2.8  # float
 

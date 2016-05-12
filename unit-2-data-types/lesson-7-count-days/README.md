@@ -2,7 +2,7 @@ Write a function that receives two `date` objects, and returns the amount of day
 
 Examples:
 
-```
+```python
 >>> count_days(date(2015, 1, 1), date(2016, 1, 1))
 365
 >>> count_days(date(2016, 1, 1), date(2015, 1, 1))

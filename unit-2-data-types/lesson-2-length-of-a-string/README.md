@@ -3,7 +3,7 @@ You can't use the builtin `len` function, you must use a for loop.
 
 Example:
 
-```
+```python
 >>> length('hello')
 5
 ```    

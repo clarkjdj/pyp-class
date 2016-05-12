@@ -3,7 +3,7 @@ You must write a Python function that mimics the same logic using String slicing
 
 Examples:
 
-```
+```python
 >>> truncatechars("This is so awesome", 4)
 "This..."
 
