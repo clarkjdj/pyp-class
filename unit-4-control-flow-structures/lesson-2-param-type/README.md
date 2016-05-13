@@ -8,13 +8,13 @@ Examples:
 
 ```python
 >>> what_is_this(1)
-"This is an Integer"
+"This is an Integer."
 >>> what_is_this("Hello World!")
-"This is a String"
+"This is a String."
 >>> what_is_this(True)
-"This is a Boolean"
+"This is a Boolean."
 >>> what_is_this(2.8)
-"This is an Float"
+"This is an Float."
 >>> what_is_this(object())
 "I have no idea what this is"
 ```
