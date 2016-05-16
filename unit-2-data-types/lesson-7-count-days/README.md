@@ -1,4 +1,4 @@
-Write a function that receives two `date` objects, and returns the amount of days that have past from one date to the other. Make sure to check that the second date is greater than the first one.
+Write a function that receives two `date` objects, and returns the amount of days that have past from one date to the other. The second date should be either greater or equal to the first date passed. If the second date is **smaller** than the first one, a `ValueError` should be raised.
 
 Examples:
 
