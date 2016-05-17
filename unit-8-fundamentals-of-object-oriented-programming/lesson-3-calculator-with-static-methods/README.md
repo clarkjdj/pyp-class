@@ -13,4 +13,6 @@ Note that I've never created an instance of the calculator. I'm using the regula
 
 One final addition. The `subtract` method **must** be implemented using the `add` method. Something like this:
 
-subtract = add(x, y * -1) 
+```python
+subtract = add(x, y * -1)
+```
