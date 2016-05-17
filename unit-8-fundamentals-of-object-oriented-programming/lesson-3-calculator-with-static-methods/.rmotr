@@ -1,0 +1,3 @@
+type = "assignment"
+uuid = "c404b26a-f35d-48b3-96da-0654fd2e6a02"
+name = "Calculator with static methods"
